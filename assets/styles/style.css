@@ -1,0 +1,9 @@
+@import 'reset.css';
+@import './components/header.css';
+@import './fonts.css';
+@import './varibles.css';
+@import './components/main.css';
+
+body {
+    background: var(--primaryColor);
+}
